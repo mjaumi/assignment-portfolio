@@ -1,0 +1,154 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+p {
+  font-size: 18px;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+}
+
+#cover-title {
+  font-family: "Yeseva One", cursive;
+  font-size: 70px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  border-left: 5px solid #ff5959;
+  line-height: 90px;
+}
+
+.orange-text {
+  color: #ffad5a;
+}
+
+.button {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  font-weight: 500;
+  border-radius: 5px;
+}
+
+#explore-button {
+  padding: 10px 30px;
+  margin-bottom: 20px;
+}
+
+#cover-image-width {
+  width: 80%;
+}
+
+.flexible {
+  display: flex;
+}
+
+.half-width {
+  width: 50%;
+}
+
+#title-margin {
+  margin-top: 140px;
+}
+
+#cover-paragraph-width {
+  width: 70%;
+}
+
+#center-text {
+  text-align: center;
+}
+
+#second-section-title {
+  font-size: 52px;
+  font-weight: 700;
+}
+
+.section-padding {
+  padding-top: 50px;
+}
+
+.card {
+  width: 33.33%;
+  box-sizing: border-box;
+  border-radius: 30px;
+  margin: 15px;
+  padding: 40px;
+  margin-bottom: 60px;
+}
+
+.card img {
+  width: 40%;
+}
+
+#mission-card {
+  background-color: rgba(79, 157, 166, 0.1);
+  margin-left: 0;
+}
+
+#vision-card {
+  background-color: rgba(255, 89, 89, 0.1);
+}
+
+#goals-card {
+  background-color: rgb(255, 244, 214);
+  margin-right: 0;
+}
+
+.card-title {
+  font-size: 30px;
+}
+
+.secondary-title {
+  font-size: 42px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+#develop-image-container {
+  margin-right: 80px;
+  width: 40%;
+}
+
+.text-container {
+  width: 60%;
+  margin-top: 70px;
+}
+
+#global-image-container {
+  margin-left: 80px;
+  width: 40%;
+}
+
+.doc-button {
+  padding: 15px 30px;
+}
+
+#secondary-section-padding {
+  margin-top: 80px;
+}
+
+footer {
+  background-color: #0b0d17;
+  margin-top: 100px;
+  text-align: center;
+  color: white;
+  padding: 20px 0;
+}
+
+#footer-title {
+  font-family: "Lobster", cursive;
+  font-size: 40px;
+}
+
+#pink-footer-text {
+  color: #ff5959;
+}
